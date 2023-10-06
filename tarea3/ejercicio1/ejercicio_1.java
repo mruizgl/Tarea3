@@ -1,24 +1,24 @@
 package tarea3.ejercicio1;
-
-import java.time.format.TextStyle;
-
-public class ejercicio_1 {
 /**
  *
  * @author Melissa
  */
 
+
+public class ejercicio_1 {
+
+
 //EJERCICIO: Escribe un programa en Java que imprima el patrón siguiente:
-1 
+//1 
 
-2 3 
+//2 3 
 
-4 5 6 
+//4 5 6 
 
-7 8 9 10   
+//7 8 9 10   
 
 
-    public static void main(String[] args) {
+public static void main (String[] args) {
 
 
 //declaramos variable que comienza con el numero entero 1
@@ -33,4 +33,4 @@ public class ejercicio_1 {
 }
         
     }
-}    
+}    //cierra clase
