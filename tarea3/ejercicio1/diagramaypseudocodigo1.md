@@ -19,7 +19,7 @@ Escribe un programa en Java que imprima el patrón siguiente:
 ### Pseudocódigo
 
 Pasos:
-- 
+- Inicio
 - 
 - 
 - 
