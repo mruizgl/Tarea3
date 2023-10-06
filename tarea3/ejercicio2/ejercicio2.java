@@ -1,9 +1,10 @@
 package tarea3.ejercicio2;
 import java.util.Scanner; // Importamos la clase Scanner del API de Java, lo usaremos para pedir al usuario los números que más adelante solicitaremos para determinar el MCD de ambos números
 public class ejercicio2 { //Escribe un programa en Java que encuentre el máximo común divisor (MCD) de dos números. Se debe solicitar los números por teclado.
-//
-/// @author Melissa
-//    
+/**
+ *
+ * @author Melissa
+ */ 
     public static void main (String[] args) { 
 
     int num1, num2;
