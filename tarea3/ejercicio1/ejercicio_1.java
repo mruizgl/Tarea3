@@ -1,11 +1,12 @@
 package tarea3.ejercicio1;
 
+import java.time.format.TextStyle;
+
 public class ejercicio_1 {
 /**
  *
  * @author Melissa
  */
-
 
 //EJERCICIO: Escribe un programa en Java que imprima el patrón siguiente:
 1 
@@ -14,7 +15,9 @@ public class ejercicio_1 {
 
 4 5 6 
 
-7 8 9 10     
+7 8 9 10   
+
+
     public static void main(String[] args) {
 
 
