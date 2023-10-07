@@ -20,11 +20,7 @@ public class ejercicio3 {
             c = a + b;          
             a = b;   // cuando se imprime 0 luego a se convierte 1, ahora sí tenemos una sucesión que comienza con 0 y 1 puesto que Fibonacci es una sucesión que empieza con los numeros 0 y 1
             b = c;
-    
-
-
-            
-
+       
         }
     }
 }
