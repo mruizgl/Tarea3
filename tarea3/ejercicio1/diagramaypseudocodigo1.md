@@ -13,23 +13,19 @@ Escribe un programa en Java que imprima el patrón siguiente:
 
 ### Diagrama de Flujo
 
-<img src=""
+<img src="diagramadeflujo1.png"
 />
 
 ### Pseudocódigo
 
 Pasos:
 - Inicio
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
--
+- Numero = 1
+- Bucle i desde 0 hasta 4 incrementando +1
+- j desde 0 hasta j>i, incrementando +1
+- Imprimir "Numero + " " "
+- Fin
+
 
 
 </div>
