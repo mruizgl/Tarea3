@@ -6,7 +6,7 @@ Escribe un programa en Java que encuentre el máximo común divisor (MCD) de dos
 
 ### Diagrama de Flujo
 
-<img src="diagramadeflujo.png"
+<img src="diagramadeflujo2.png"
 />
 
 ### Pseudocódigo
