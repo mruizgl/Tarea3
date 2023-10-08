@@ -1,4 +1,4 @@
-package tarea3.ejercicio1;
+package ejercicio1;
 /**
  *
  * @author Melissa
