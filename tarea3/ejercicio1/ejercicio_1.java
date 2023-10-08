@@ -3,12 +3,10 @@ package ejercicio1;
  *
  * @author Melissa
  */
-
+//EJERCICIO 1: Escribe un programa en Java que imprima el patrón siguiente:
 
 public class ejercicio_1 {
 
-
-//EJERCICIO: Escribe un programa en Java que imprima el patrón siguiente:
 //1 
 
 //2 3 
